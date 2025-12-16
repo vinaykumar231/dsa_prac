@@ -63,21 +63,21 @@ class Config:
         return {
             "office": CameraConfig(
                 name="office",
-                url="rtsp://adminnew:Jitu2024@192.168.29.46:554/cam/realmonitor?channel=5&subtype=1&tcp",
+                url="rtsp://adminnew:",
                 confidence_threshold=0.8,
                 max_fps=8,
                 resolution=(640, 480)
             ),
             "cabin": CameraConfig(
                 name="cabin", 
-                url="rtsp://adminnew:Jitu2024@192.168.29.46:554/cam/realmonitor?channel=3&subtype=1&tcp",
+                url="rtsp://adminnew:",
                 confidence_threshold=0.5,
                 max_fps=8,
                 resolution=(640, 480)
             ),
             "cabin": CameraConfig(
                 name="gate", 
-                url="rtsp://adminnew:Jitu2024@192.168.29.46:554/cam/realmonitor?channel=2&subtype=1&tcp",
+                url="rtsp://",
                 confidence_threshold=0.5,
                 max_fps=8,
                 resolution=(640, 480)
