@@ -1,0 +1,128 @@
+2025-10-13 11:10:10 - MealChatbot - INFO - ================================================================================
+2025-10-13 11:10:10 - MealChatbot - INFO - Initializing Meal Chatbot
+2025-10-13 11:10:10 - MealChatbot - INFO - ================================================================================
+2025-10-13 11:10:11 - MealChatbot - INFO - Connected to ChromaDB. Collection: meals, Items: 58032
+2025-10-13 11:10:11 - MealChatbot - INFO - Chatbot initialized successfully
+2025-10-13 11:10:15 - MealChatbot - INFO - User Query: hi
+2025-10-13 11:10:15 - MealChatbot - INFO - Bot Response: Hello! 👋 I'm your meal recommendation assistant.
+
+I have access to 58,032 meals from various cuisines across India.
+
+You can ask me about:
+• Specific cuisines (e.g., 'South Indian breakfast')
+• Dietar...
+2025-10-13 11:10:27 - MealChatbot - INFO - User Query: who r u
+2025-10-13 11:10:29 - MealChatbot - INFO - Bot Response: Hello! I’m your friendly meal recommendation assistant, here to help you discover delicious Indian cuisine tailored to your taste. Whether you're looking for something light, hearty, or vegetarian, I’...
+2025-10-13 11:10:39 - MealChatbot - INFO - User Query: give 10 meal name
+2025-10-13 11:10:43 - MealChatbot - INFO - Bot Response: Sure! Here are 10 delicious Indian meal recommendations, complete with their cuisine type, calorie counts, and diet types:
+
+### 1. Chicken Tikka Masala
+- **Cuisine:** Indian
+- **Calories:** ~400 per s...
+2025-10-13 11:11:02 - MealChatbot - INFO - User Query: girv info abot lucknowi tehri
+2025-10-13 11:11:05 - MealChatbot - INFO - Bot Response: Lucknowi Tehri is a delightful and aromatic rice dish that hails from the royal kitchens of Lucknow. Here’s what you need to know about it:
+
+### **Lucknowi Tehri**
+- **Cuisine:** Indian (Awadhi)
+- **C...
+2025-10-13 11:11:26 - MealChatbot - INFO - User Query: lucknowi tehri give prompt this
+2025-10-13 11:11:26 - MealChatbot - INFO - Bot Response: Hello! 👋 I'm your meal recommendation assistant.
+
+I have access to 58,032 meals from various cuisines across India.
+
+You can ask me about:
+• Specific cuisines (e.g., 'South Indian breakfast')
+• Dietar...
+2025-10-13 11:49:16 - MealChatbot - INFO - User Query: hii
+2025-10-13 11:49:16 - MealChatbot - INFO - Bot Response: Hello! 👋 I'm your meal recommendation assistant.
+
+I have access to 58,032 meals from various cuisines across India.
+
+You can ask me about:
+• Specific cuisines (e.g., 'South Indian breakfast')
+• Dietar...
+2025-10-13 11:49:20 - MealChatbot - INFO - User Query: ggg
+2025-10-13 11:49:23 - MealChatbot - INFO - Bot Response: It seems like there was a little mix-up with your request! If you’re looking for meal recommendations, I’d be thrilled to help you out with some delicious Indian cuisine options. Just let me know what...
+2025-10-13 12:06:13 - MealChatbot - INFO - User Query: hh
+2025-10-13 12:06:17 - MealChatbot - INFO - Bot Response: It looks like there was an issue retrieving specific meal suggestions! But no worries, I can help you with some popular Indian meal recommendations. Here are a few tasty options to consider:
+
+### 1. C...
+2025-10-13 12:06:21 - MealChatbot - INFO - User Query: dgdfg
+2025-10-13 12:06:26 - MealChatbot - INFO - Bot Response: It looks like there was an error in retrieving specific meal recommendations. No worries! If you're interested in exploring Indian cuisine, I can certainly help you with that. Here are a few popular I...
+2025-10-13 12:07:01 - MealChatbot - INFO - User Query: hii
+2025-10-13 12:07:01 - MealChatbot - INFO - Bot Response: Hello! 👋 I'm your meal recommendation assistant.
+
+I have access to 58,032 meals from various cuisines across India.
+
+You can ask me about:
+• Specific cuisines (e.g., 'South Indian breakfast')
+• Dietar...
+2025-10-13 12:07:06 - MealChatbot - INFO - User Query: who r u
+2025-10-13 12:07:08 - MealChatbot - INFO - Bot Response: Hello! I'm your friendly meal recommendation assistant, here to help you discover delicious Indian cuisine tailored to your preferences. Whether you're looking for something vegetarian, vegan, or meat...
+2025-10-13 12:07:35 - MealChatbot - INFO - User Query: i am ready to glad tp meet u
+2025-10-13 12:07:39 - MealChatbot - INFO - Bot Response: Hello! I'm excited to assist you with meal recommendations! It seems we need to find some delicious Indian cuisine options for you. Here are a few tasty choices:
+
+### 1. **Chicken Tikka Masala**
+- **C...
+2025-10-13 12:07:58 - MealChatbot - INFO - User Query: who r u
+2025-10-13 12:08:00 - MealChatbot - INFO - Bot Response: Hello! I'm your friendly meal recommendation assistant, here to help you discover delicious Indian cuisine that suits your taste and dietary preferences. Whether you're looking for a quick snack or a ...
+2025-10-13 12:08:41 - MealChatbot - INFO - User Query: how r u
+2025-10-13 12:08:43 - MealChatbot - INFO - Bot Response: I'm doing great, thank you! How about you? If you're looking for some delicious Indian meal recommendations, I’d be more than happy to help you out! What are you in the mood for today? 😊...
+2025-10-13 12:29:29 - MealChatbot - INFO - User Query: hii
+2025-10-13 12:29:29 - MealChatbot - INFO - Bot Response: Hello! 👋 I'm your meal recommendation assistant.
+
+I have access to 58,032 meals from various cuisines across India.
+
+You can ask me about:
+• Specific cuisines (e.g., 'South Indian breakfast')
+• Dietar...
+2025-10-13 12:29:32 - MealChatbot - INFO - User Query: gmm
+2025-10-13 12:29:36 - MealChatbot - INFO - Bot Response: It seems there might have been a little mix-up with your query! If you're looking for meal recommendations, I’d be happy to help! Please specify what type of Indian cuisine you're interested in, or an...
+2025-10-13 12:29:45 - MealChatbot - INFO - User Query: right
+2025-10-13 12:29:47 - MealChatbot - INFO - Bot Response: It looks like I don't have enough details on any specific meal at the moment. But no worries! If you have a particular type of Indian dish in mind or dietary preferences (like vegetarian, vegan, or gl...
+2025-10-13 12:37:47 - MealChatbot - INFO - User Query: hii
+2025-10-13 12:37:47 - MealChatbot - INFO - Bot Response: Hello! 👋 I'm your meal recommendation assistant.
+
+I have access to 58,032 meals from various cuisines across India.
+
+You can ask me about:
+• Specific cuisines (e.g., 'South Indian breakfast')
+• Dietar...
+2025-10-13 12:37:53 - MealChatbot - INFO - User Query: tyrertetertesrtrestert
+2025-10-13 12:37:55 - MealChatbot - INFO - Bot Response: It seems like there was a bit of a mix-up with your request! No worries, I'm here to help you with delicious meal recommendations. If you could let me know what kind of Indian cuisine you're intereste...
+2025-10-13 12:41:20 - MealChatbot - INFO - User Query: how many meal u have
+2025-10-13 12:41:20 - MealChatbot - INFO - Bot Response: I currently have 58,032 meals in my database, covering various Indian cuisines and dietary preferences....
+2025-10-13 12:42:59 - MealChatbot - INFO - User Query: celebrity,andhra pradesh,south,indian,dahi aloo (no onion/garlic),veg,false,true,breakfast,nisha madhulika,paneer; tomato; spices,chef-inspired yet approachable home version with balanced spices.,20,24,44,434,10,47,12,medium,false,"high-quality homestyle celebrity breakfast from andhra pradesh. dish: dahi aloo (no onion/garlic). natural light, garnish visible, steam, 45-degree angle.",balanced,homestyle steel plate with side bowls,,discovery,inspired by nisha madhulika; home-cook friendly.,breakfast,,all,year-round
+2025-10-13 12:42:59 - MealChatbot - INFO - Bot Response: Hello! 👋 I'm your meal recommendation assistant.
+
+I have access to 58,032 meals from various cuisines across India.
+
+You can ask me about:
+• Specific cuisines (e.g., 'South Indian breakfast')
+• Dietar...
+2025-10-13 12:43:35 - MealChatbot - INFO - User Query: celebrity,andhra pradesh,south,indian,dahi aloo (no onion/garlic),veg,false,true,breakfast,nisha madhulika,paneer; tomato; spices,chef-inspired
+2025-10-13 12:43:35 - MealChatbot - INFO - Bot Response: Hello! 👋 I'm your meal recommendation assistant.
+
+I have access to 58,032 meals from various cuisines across India.
+
+You can ask me about:
+• Specific cuisines (e.g., 'South Indian breakfast')
+• Dietar...
+2025-10-13 12:44:07 - MealChatbot - INFO - User Query: south indian breakfast
+2025-10-13 12:44:11 - MealChatbot - INFO - Bot Response: Here are some delightful South Indian breakfast options for you:
+
+### 1. Idli
+- **Cuisine**: South Indian
+- **Calories**: Approximately 39 calories per piece
+- **Diet**: Vegetarian, Gluten-free
+- **Pr...
+2025-10-13 18:33:13 - MealChatbot - INFO - User Query: hii
+2025-10-13 18:33:17 - MealChatbot - INFO - Bot Response: Hello! 👋 I'm your meal recommendation assistant.
+
+I have access to 58,032 meals from various cuisines across India.
+
+You can ask me about:
+• Specific cuisines (e.g., 'South Indian breakfast')
+• Dietar...
+2025-10-13 18:33:22 - MealChatbot - INFO - User Query: who r u
+2025-10-13 18:33:26 - MealChatbot - INFO - Bot Response: Hello! I'm your friendly meal recommendation assistant, here to help you discover delicious Indian cuisine tailored to your tastes. If you're looking for meal suggestions, cooking tips, or nutritional...
